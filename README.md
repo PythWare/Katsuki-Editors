@@ -1,2 +1,5 @@
-# Katsuki-Editors
-Software I make for modding Akiba's Trip 2.
+# Katsuki Editors
+
+This repository is for any editors I make for Akiba's Trip Undead & Undressed
+
+Any future software for this repository will be written in Dart and have 0 dependencies.
