@@ -6,7 +6,7 @@ Any future software for this repository will be written in Dart and have 0 depen
 
 # Katsuki's Textworks
 
-Katsuki's Textworks is used for modding text, dialogue, etc for Akiba's Trip Undead & Undressed. 
+Katsuki's Textworks is used for modding text, dialogue, etc for Akiba's Trip Undead & Undressed. No dependencies for this software, just download from releases or the executable directly. If you're on linux, you'll probably need wine to use it since I developed this for windows originally.
 
 Double click the executable and ideally, read the Usage Docs (click the G sphere) within the software but i'll quickly explain how to use it (a lot of the code is repurposed from my Awano's Easy Life Tools):
 
